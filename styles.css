@@ -1,0 +1,59 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-justify: auto;
+    background-color: lightgoldenrodyellow;
+}
+
+.pic{
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.minipic{
+    width: 300px;
+    height: auto;
+}
+
+.minimini{
+    width: 35px;
+    height: auto;
+}
+
+.center{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 800;
+    background-color: lightcoral;
+    color: darkblue;
+}
+
+h2{
+    font-size: x-large;
+    font-weight: 600;
+    background-color: lightpink;
+    color: darkslateblue;
+}
+
+h1 ul{
+text-align: center;
+}
+
+strong{
+    font-style: italic;
+    color: blue;
+}
+
+li{
+    font-variant-alternates: ornaments(lightcoral);
+}
+
+legend{
+    text-align: center;
+}
